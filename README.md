@@ -1,1 +1,1 @@
-GetProcessModuleBase MDL Read\Write Memory
+io GetProcessModuleBase MDL Read\Write Memory
